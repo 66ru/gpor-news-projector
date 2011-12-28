@@ -11,6 +11,16 @@ foreach ($config as $k=>$v)
 		die ("empty key ".$k);
 }
 
+$dataDir = $newsStatRootDir.'/data/';
+if (!file_exists($dataDir))
+{
+	if (!mkdir($dataDir, 0777))
+	{
+		die('Can\'t create folder '.$dataDir);
+	}
+}
+
+
 $pid = getmypid();
 $lockFile = $newsStatRootDir.'/cron.lock';
 if (file_exists($lockFile))

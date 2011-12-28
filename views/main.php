@@ -57,6 +57,10 @@
 	.recordCount {color: #52ad5a;}
 	.lowCount {color: #dc3912;}
 	.newestItemClass {background-color: #E6F6DA; border-bottom: 1px solid #CAE9B5;}
+	
+	#footer {margin-top: 20px; padding: 0 20px;}
+	.footerText {border-top: 1px solid #cccccc; padding-top: 10px; padding: 0 10px;}
+	.footerText p {font-size: 11px; margin: 0;}
 
 	a {color: #037DD3;text-decoration: none;}
 	ol, ul {list-style: none outside none; margin: 0; padding: 0;}
@@ -124,6 +128,8 @@
 		<ul class="feed-list">
 		</ul>
 	</div>
+
+<div class="clear"></div>
 
 <script type="text/javascript">
 $(document).ready(function(){

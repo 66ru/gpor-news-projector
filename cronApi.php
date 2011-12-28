@@ -1,13 +1,13 @@
 <?php 
-$healthRootDir = dirname(__FILE__);
-$config = require($healthRootDir.'/config.php');
+$newsStatRootDir = dirname(__FILE__);
+$config = require($newsStatRootDir.'/config.php');
 
 $DR = $config['rootDir'];
 
-include_once ($healthRootDir.'/lib/xmlrpc-3.0.0.beta/xmlrpc.inc');
-include_once ($healthRootDir.'/lib/xmlrpc-3.0.0.beta/xmlrpcs.inc');
-include_once ($healthRootDir.'/lib/xmlrpc-3.0.0.beta/xmlrpc_wrappers.inc');
-require ($healthRootDir.'/lib/NewsStatXmlRpc.php');
+include_once ($newsStatRootDir.'/lib/xmlrpc-3.0.0.beta/xmlrpc.inc');
+include_once ($newsStatRootDir.'/lib/xmlrpc-3.0.0.beta/xmlrpcs.inc');
+include_once ($newsStatRootDir.'/lib/xmlrpc-3.0.0.beta/xmlrpc_wrappers.inc');
+require ($newsStatRootDir.'/lib/NewsStatXmlRpc.php');
 
 foreach ($config as $k=>$v)
 {
@@ -15,7 +15,14 @@ foreach ($config as $k=>$v)
 		die ("empty key ".$k);
 }
 
-$dataDir = $healthRootDir.'/data/';
+$dataDir = $newsStatRootDir.'/data/';
+if (!file_exists($dataDir))
+{
+	if (!mkdir($dataDir, 0777))
+	{
+		die('Can\'t create folder '.$dataDir);
+	}
+}
 
 // собираем статистику просмотров за 2 месяца
 $fileName = $dataDir.'viewsStat.json';

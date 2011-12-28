@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Богдан: подписки в Google Reader</title>
+    </head>
+    <body>
+        <outline text="&quot;Ведомости&quot;. Финансы"
+            title="&quot;Ведомости&quot;. Финансы" type="rss"
+            xmlUrl="http://www.vedomosti.ru/newspaper/out/pages/finance.xml" htmlUrl="http://www.vedomosti.ru/finance/"/>
+        <outline text="&quot;Коммерсантъ&quot;. Лента новостей"
+            title="&quot;Коммерсантъ&quot;. Лента новостей" type="rss"
+            xmlUrl="http://dynamic.feedsportal.com/pf/438809/http://feeds.kommersant.ru/RSS_Export/RU/news.xml" htmlUrl="http://www.kommersant.ru/"/>
+        <outline text="&quot;Коммерсантъ&quot;. Экономика и Бизнес"
+            title="&quot;Коммерсантъ&quot;. Экономика и Бизнес"
+            type="rss"
+            xmlUrl="http://dynamic.feedsportal.com/pf/438811/http://feeds.kommersant.ru/RSS_Export/RU/section-business.xml" htmlUrl="http://www.kommersant.ru/"/>
+        <outline text="Bankir.Ru - Банковские байки"
+            title="Bankir.Ru - Банковские байки" type="rss"
+            xmlUrl="http://www.bankir.ru/rss/publication/baiki" htmlUrl="http://bankir.ru/"/>
+        <outline text="Bankir.Ru - Кредитование"
+            title="Bankir.Ru - Кредитование" type="rss"
+            xmlUrl="http://www.bankir.ru/rss/publication/credit" htmlUrl="http://bankir.ru/"/>
+        <outline text="Bankir.Ru - Новости" title="Bankir.Ru - Новости"
+            type="rss" xmlUrl="http://www.bankir.ru/rss/news" htmlUrl="http://bankir.ru/"/>
+        <outline text="JustMedia" title="JustMedia" type="rss"
+            xmlUrl="http://justmedia.ru/rss" htmlUrl="http://justmedia.ru"/>
+        <outline text="RSS.NR2.Ru: Екатеринбург. Новости"
+            title="RSS.NR2.Ru: Екатеринбург. Новости" type="rss"
+            xmlUrl="http://www.nr2.ru/ekb/rss/" htmlUrl="http://www.nr2.ru/ekb/"/>
+        <outline text="Twitter / FederalPress"
+            title="Twitter / FederalPress" type="rss"
+            xmlUrl="http://twitter.com/statuses/user_timeline/237676850.rss" htmlUrl="http://twitter.com/FederalPress"/>
+        <outline text="Агентство новостей &quot;Доступ&quot;"
+            title="Агентство новостей &quot;Доступ&quot;" type="rss"
+            xmlUrl="http://dostup1.ru/rss/" htmlUrl="http://www.dostup1.ru/"/>
+        <outline text="Актуальные новости" title="Актуальные новости"
+            type="rss"
+            xmlUrl="http://www.mvd.ru/ru/?module=rss&amp;action=actual" htmlUrl="http://mvd.ru/"/>
+        <outline text="Газета &quot;Коммерсантъ&quot;. Главное"
+            title="Газета &quot;Коммерсантъ&quot;. Главное" type="rss"
+            xmlUrl="http://dynamic.feedsportal.com/pf/438799/http://feeds.kommersant.ru/RSS_Export/RU/main.xml" htmlUrl="http://www.kommersant.ru/"/>
+        <outline text="Горячая линия ПРАЙМ-ТАСС"
+            title="Горячая линия ПРАЙМ-ТАСС" type="rss"
+            xmlUrl="http://www.prime-tass.ru/rss/rushot_rss.xml" htmlUrl="http://www.1prime.ru"/>
+        <outline
+            text="Департамент Экономической Безопасности МВД России"
+            title="Департамент Экономической Безопасности МВД России"
+            type="rss" xmlUrl="http://debmvd.ru/only_rss.php" htmlUrl="http://debmvd.ru/"/>
+        <outline text="Маркер" title="Маркер" type="rss"
+            xmlUrl="http://marker.ru/xml/rss.xml" htmlUrl="http://www.marker.ru/"/>
+        <outline
+            text="Новости cледственного комитета при прокуратуре РФ"
+            title="Новости cледственного комитета при прокуратуре РФ"
+            type="rss" xmlUrl="http://sledcom.ru/news/rss/" htmlUrl="http://sledcom.ru"/>
+        <outline text="Новости, пресс-релизы, публикации"
+            title="Новости, пресс-релизы, публикации" type="rss"
+            xmlUrl="http://www.bankinform.ru/news/rss/?t=804" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fwww.bankinform.ru%2Fnews%2Frss%2F%3Ft%3D804"/>
+        <outline text="НЭП 08 // Банки и Финансы"
+            title="НЭП 08 // Банки и Финансы" type="rss"
+            xmlUrl="http://www.nep08.ru/banks/rss/" htmlUrl="http://www.nep08.ru/banks/"/>
+        <outline text="РБК daily - последний выпуск"
+            title="РБК daily - последний выпуск" type="rss"
+            xmlUrl="http://static.feed.rbc.ru/rbc/logical/rbcdaily.ru/daily.rss" htmlUrl="http://www.rbcdaily.ru"/>
+        <outline
+            text="Российское Информационное Агентство &quot;РИА Новости&quot;"
+            title="Российское Информационное Агентство &quot;РИА Новости&quot;"
+            type="rss"
+            xmlUrl="http://rian.ru/export/rss2/economy/index.xml" htmlUrl="http://www.ria.ru"/>
+        <outline text="Ура.Ru - Российское информационное агентство"
+            title="Ура.Ru - Российское информационное агентство"
+            type="rss" xmlUrl="http://www.ura.ru/export/all.rss" htmlUrl="http://www.ura.ru"/>
+        <outline text="Яндекс.Новости: Экономика"
+            title="Яндекс.Новости: Экономика" type="rss"
+            xmlUrl="http://news.yandex.ru/business.rss" htmlUrl="http://news.yandex.ru/business.html"/>
+        <outline title="Силовики Екатеринбург" text="Силовики Екатеринбург">
+            <outline text="Новости" title="Новости" type="rss"
+                xmlUrl="http://feed43.com/5486458850258464.xml" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeed43.com%2F5486458850258464.xml"/>
+            <outline text="УВД" title="УВД" type="rss"
+                xmlUrl="http://www.uvd-eburg.ru/?feed=rss2" htmlUrl="http://www.uvd-eburg.ru"/>
+        </outline>
+        <outline title="В мире" text="В мире">
+            <outline text="&quot;Коммерсантъ&quot;. В мире"
+                title="&quot;Коммерсантъ&quot;. В мире" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/RU/section-world.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline text="&quot;РИА Новости&quot; / В мире"
+                title="&quot;РИА Новости&quot; / В мире" type="rss"
+                xmlUrl="http://www.rian.ru/export/rss2/world/index.xml" htmlUrl="http://www.ria.ru"/>
+            <outline text="Lenta.ru: В мире:" title="Lenta.ru: В мире:"
+                type="rss" xmlUrl="http://lenta.ru/rss/news/world/" htmlUrl="http://lenta.ru/"/>
+            <outline text="Яндекс.Новости: В мире"
+                title="Яндекс.Новости: В мире" type="rss"
+                xmlUrl="http://news.yandex.ru/world.rss" htmlUrl="http://news.yandex.ru/world.html"/>
+        </outline>
+        <outline title="Недвижимость" text="Недвижимость">
+            <outline
+                text="Ekbrealty.ru - последние новости, статьи, мероприятия"
+                title="Ekbrealty.ru - последние новости, статьи, мероприятия"
+                type="rss" xmlUrl="http://ekbrealty.ru/rss" htmlUrl="http://ekbrealty.ru/rss"/>
+            <outline text="IRN.RU Аналитика от IRN.RU"
+                title="IRN.RU Аналитика от IRN.RU" type="rss"
+                xmlUrl="http://www.irn.ru/xml/irn_info.xml" htmlUrl="http://www.irn.ru/"/>
+            <outline text="IRN.RU Дайджест прессы от IRN.RU"
+                title="IRN.RU Дайджест прессы от IRN.RU" type="rss"
+                xmlUrl="http://www.irn.ru/xml/irn_articles.xml" htmlUrl="http://www.irn.ru/"/>
+            <outline text="IRN.RU Новости" title="IRN.RU Новости"
+                type="rss" xmlUrl="http://www.irn.ru/xml/irn.xml" htmlUrl="http://www.irn.ru/"/>
+            <outline text="METRINFO.RU Новости"
+                title="METRINFO.RU Новости" type="rss"
+                xmlUrl="http://www.metrinfo.ru/xml/metrinfo.xml" htmlUrl="http://www.metrinfo.ru/"/>
+            <outline text="ВЕДОМОСТИ - ИССЛЕДОВАНИЯ"
+                title="ВЕДОМОСТИ - ИССЛЕДОВАНИЯ" type="rss"
+                xmlUrl="http://vedomosti.dynamic.feedsportal.com/pf/587115/www.vedomosti.ru/research/rss/construction-and-real-estate.xml" htmlUrl="http://www.vedomosti.ru/research/"/>
+            <outline text="РБК-недвижимость" title="РБК-недвижимость"
+                type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/realty.rbc.ru/mainnews.rss" htmlUrl="http://realty.rbc.ru"/>
+            <outline
+                text="Строительный портал EstateLine: строительные объекты и тендеры ..."
+                title="Строительный портал EstateLine: строительные объекты и тендеры ..."
+                type="rss" xmlUrl="http://estate.dp.ru/news/rss" htmlUrl="http://estate.dp.ru/news"/>
+            <outline text="Уралстройпортал - новости"
+                title="Уралстройпортал - новости" type="rss"
+                xmlUrl="http://www.uralstroyportal.ru/usp-rss-news.php" htmlUrl="http://www.uralstroyportal.ru/news/"/>
+            <outline text="Уралстройпортал - строительные тендеры"
+                title="Уралстройпортал - строительные тендеры"
+                type="rss"
+                xmlUrl="http://www.uralstroyportal.ru/usp-rss-tenders.php" htmlUrl="http://www.uralstroyportal.ru/tenders/"/>
+        </outline>
+        <outline title="Спорт" text="Спорт">
+            <outline text="&quot;Коммерсантъ&quot;. Спорт"
+                title="&quot;Коммерсантъ&quot;. Спорт" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/RU/section-sport.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline text="Lenta.ru: Спорт:" title="Lenta.ru: Спорт:"
+                type="rss" xmlUrl="http://lenta.ru/rss/news/sport/" htmlUrl="http://lenta.ru/"/>
+        </outline>
+        <outline title="Новостные агрегаторы" text="Новостные агрегаторы">
+            <outline text="Яндекс.Новости: Главные новости"
+                title="Яндекс.Новости: Главные новости" type="rss"
+                xmlUrl="http://news.yandex.ru/index.rss" htmlUrl="http://news.yandex.ru/index.html"/>
+        </outline>
+        <outline title="Авто" text="Авто">
+            <outline text="Autonews.Ru" title="Autonews.Ru" type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/autonews.ru/mainnews.rss" htmlUrl="http://www.autonews.ru/"/>
+            <outline text="Motor.ru" title="Motor.ru" type="rss"
+                xmlUrl="http://motor.ru/export/atom/" htmlUrl="http://motor.ru/"/>
+            <outline text="Авто@Mail.Ru" title="Авто@Mail.Ru" type="rss"
+                xmlUrl="http://auto.mail.ru/rss/" htmlUrl="http://auto.mail.ru/"/>
+            <outline text="АВТОСТАТ" title="АВТОСТАТ" type="rss"
+                xmlUrl="http://www.autostat.ru/rss/all_rus.xml" htmlUrl="http://www.autostat.ru"/>
+            <outline text="Ведомости" title="Ведомости" type="rss"
+                xmlUrl="http://vedomosti.dynamic.feedsportal.com/pf/587109/www.vedomosti.ru/research/rss/automobiles.xml" htmlUrl="http://www.vedomosti.ru/research/"/>
+            <outline text="ГИБДД СО" title="ГИБДД СО" type="rss"
+                xmlUrl="http://www.ugibddso.ru/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" htmlUrl="http://www.ugibddso.ru"/>
+        </outline>
+        <outline title="Происшествия" text="Происшествия">
+            <outline text="&quot;Коммерсантъ&quot;. Происшествия"
+                title="&quot;Коммерсантъ&quot;. Происшествия" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/RU/section-accidents.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline text="&quot;РИА Новости&quot; / Происшествия"
+                title="&quot;РИА Новости&quot; / Происшествия"
+                type="rss"
+                xmlUrl="http://www.rian.ru/export/rss2/incidents/index.xml" htmlUrl="http://www.ria.ru"/>
+            <outline text="РБК. Происшествия" title="РБК. Происшествия"
+                type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/incidents.rss" htmlUrl="http://top.rbc.ru/incidents/"/>
+        </outline>
+        <outline title="Скандалы" text="Скандалы">
+            <outline text="Публикации по тегу: Скандалы"
+                title="Публикации по тегу: Скандалы" type="rss"
+                xmlUrl="http://expert.ru/doc-list/rss/tag/21893/" htmlUrl="http://expert.ru/doc-list/rss/tag/21893/"/>
+        </outline>
+        <outline title="Исследования и рейтинги" text="Исследования и рейтинги">
+            <outline text="rating.rbc.ru: 5 последних новостей"
+                title="rating.rbc.ru: 5 последних новостей" type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rating.rbc.ru/mainnews.rss" htmlUrl="http://rating.rbc.ru/"/>
+            <outline
+                text="research.rbc.ru: 5 последних новостей исследований"
+                title="research.rbc.ru: 5 последних новостей исследований"
+                type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/research.rbc.ru/mainnews.rss" htmlUrl="http://research.rbc.ru/"/>
+            <outline text="ВЕДОМОСТИ - ИССЛЕДОВАНИЯ"
+                title="ВЕДОМОСТИ - ИССЛЕДОВАНИЯ" type="rss"
+                xmlUrl="http://vedomosti.dynamic.feedsportal.com/pf/587108/www.vedomosti.ru/research/rss.xml" htmlUrl="http://www.vedomosti.ru/research/"/>
+            <outline text="Публикации по тегу: Рейтинги"
+                title="Публикации по тегу: Рейтинги" type="rss"
+                xmlUrl="http://expert.ru/doc-list/rss/tag/35414/" htmlUrl="http://expert.ru/doc-list/rss/tag/35414/"/>
+        </outline>
+        <outline title="Банки" text="Банки">
+            <outline text="Публикации по тегу: Бизнес и власть"
+                title="Публикации по тегу: Бизнес и власть" type="rss"
+                xmlUrl="http://expert.ru/doc-list/rss/tag/21772/" htmlUrl="http://expert.ru/doc-list/rss/tag/21772/"/>
+        </outline>
+        <outline title="Общество" text="Общество">
+            <outline text="&quot;Коммерсантъ&quot;. Общество"
+                title="&quot;Коммерсантъ&quot;. Общество" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/RU/section-society.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline text="РБК. Общество" title="РБК. Общество"
+                type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/society.rss" htmlUrl="http://top.rbc.ru/society/"/>
+        </outline>
+        <outline title="Власть: Прямые источники" text="Власть: Прямые источники">
+            <outline text="АСИ" title="АСИ" type="rss"
+                xmlUrl="http://asi.ru/news.rss" htmlUrl="http://asi.ru/news.rss"/>
+            <outline text="Сайт Президента России"
+                title="Сайт Президента России" type="rss"
+                xmlUrl="http://www.kremlin.ru/feeds/news" htmlUrl="http://news.kremlin.ru/news"/>
+        </outline>
+        <outline title="Желтые Федеральные источники" text="Желтые Федеральные источники">
+            <outline
+                text="НОВОСТИ LIFE | NEWS - Первый по срочным новостям"
+                title="НОВОСТИ LIFE | NEWS - Первый по срочным новостям"
+                type="rss"
+                xmlUrl="http://www.lifenews.ru/xml/mainrss.xml" htmlUrl="http://www.lifenews.ru/"/>
+        </outline>
+        <outline title="Культура" text="Культура">
+            <outline text="&quot;Ведомости&quot;. Культура"
+                title="&quot;Ведомости&quot;. Культура" type="rss"
+                xmlUrl="http://vedomosti.dynamic.feedsportal.com/pf/587093/www.vedomosti.ru/newspaper/out/pages/arts.xml" htmlUrl="http://www.vedomosti.ru/lifestyle/"/>
+            <outline text="&quot;Коммерсантъ&quot;. Культура"
+                title="&quot;Коммерсантъ&quot;. Культура" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/RU/section-culture.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline text="OpenSpace.ru" title="OpenSpace.ru" type="rss"
+                xmlUrl="http://www.openspace.ru/rss.php?type=news" htmlUrl="http://www.openspace.ru/"/>
+            <outline text="ИА «Апельсин»_Екатеринбург"
+                title="ИА «Апельсин»_Екатеринбург" type="rss"
+                xmlUrl="http://apelcin.ru/news/rss.xml" htmlUrl="http://apelcin.ru/"/>
+            <outline text="Культурмультур" title="Культурмультур"
+                type="rss"
+                xmlUrl="http://www.kulturmultur.com/novosti/rss" htmlUrl="http://www.kulturmultur.com/novosti/"/>
+            <outline text="РИА Новости / Культура"
+                title="РИА Новости / Культура" type="rss"
+                xmlUrl="http://www.rian.ru/export/rss2/culture/index.xml" htmlUrl="http://www.ria.ru"/>
+        </outline>
+        <outline title="Журналы" text="Журналы">
+            <outline text="Esquire.ru" title="Esquire.ru" type="rss"
+                xmlUrl="http://feeds.feedburner.com/esquire-ru" htmlUrl="http://esquire.ru/"/>
+            <outline text="Журнал «Большой Город»"
+                title="Журнал «Большой Город»" type="rss"
+                xmlUrl="http://www.bg.ru/blog.rss" htmlUrl="http://www.bg.ru"/>
+            <outline text="Журнал «Большой Город»"
+                title="Журнал «Большой Город»" type="rss"
+                xmlUrl="http://www.bg.ru/article.rss" htmlUrl="http://www.bg.ru"/>
+            <outline text="Последний выпуск журнала Русский репортер"
+                title="Последний выпуск журнала Русский репортер"
+                type="rss"
+                xmlUrl="http://expert.ru/russian_reporter/rss/" htmlUrl="http://expert.ru/russian_reporter/rss/"/>
+        </outline>
+        <outline title="Главные федеральные источники" text="Главные федеральные источники">
+            <outline text="&quot;Коммерсантъ&quot;. Лента новостей"
+                title="&quot;Коммерсантъ&quot;. Лента новостей"
+                type="rss"
+                xmlUrl="http://www.kommersant.ru/rss/news.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline text="&quot;РИА Новости&quot; / главная"
+                title="&quot;РИА Новости&quot; / главная" type="rss"
+                xmlUrl="http://www.rian.ru/export/rss2/index.xml" htmlUrl="http://www.ria.ru"/>
+            <outline
+                text="BFM.ru: «Проект BFM.ru», «На главную», «Новость»"
+                title="BFM.ru: «Проект BFM.ru», «На главную», «Новость»"
+                type="rss"
+                xmlUrl="http://www.bfm.ru/news/rss/home+news+bfm/" htmlUrl="http://www.bfm.ru/news/list/home+news+bfm/"/>
+            <outline text="Lenta.ru: Главное:"
+                title="Lenta.ru: Главное:" type="rss"
+                xmlUrl="http://lenta.ru/rss/" htmlUrl="http://lenta.ru/"/>
+            <outline text="Slon.ru - Деловые новости и блоги"
+                title="Slon.ru - Деловые новости и блоги" type="rss"
+                xmlUrl="http://slon.ru/rss/all.php" htmlUrl="http://slon.ru/rss/all.php"/>
+            <outline text="www.dp.ru" title="www.dp.ru" type="rss"
+                xmlUrl="http://www.dp.ru/rss" htmlUrl="http://www.dp.ru"/>
+            <outline
+                text="ВЕДОМОСТИ - деловая газета. Новости, аналитика, прогнозы."
+                title="ВЕДОМОСТИ - деловая газета. Новости, аналитика, прогнозы."
+                type="rss"
+                xmlUrl="http://www.vedomosti.ru/newspaper/out/rss.xml" htmlUrl="http://www.vedomosti.ru/"/>
+            <outline text="Интерфакс" title="Интерфакс" type="rss"
+                xmlUrl="http://www.interfax.ru/rss.asp" htmlUrl="http://www.interfax.ru"/>
+            <outline text="РБК - главные+короткие"
+                title="РБК - главные+короткие" type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/news.rss" htmlUrl="http://www.rbc.ru/"/>
+            <outline text="РБК главные" title="РБК главные" type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/mainnews.rss" htmlUrl="http://top.rbc.ru/"/>
+            <outline text="Росбалт" title="Росбалт" type="rss"
+                xmlUrl="http://feeds2.feedburner.com/rosbalt" htmlUrl="http://www.rosbalt.ru/"/>
+            <outline text="Свободная пресса" title="Свободная пресса"
+                type="rss" xmlUrl="http://svpressa.ru/xml/news.xml" htmlUrl="http://svpressa.ru/"/>
+            <outline text="Эксперт" title="Эксперт" type="rss"
+                xmlUrl="http://expert.ru/doc-list/rss/" htmlUrl="http://expert.ru/doc-list/rss/"/>
+        </outline>
+        <outline title="Бизнес" text="Бизнес">
+            <outline
+                text="&quot;Ведомости&quot;. Аналитика и комментарии"
+                title="&quot;Ведомости&quot;. Аналитика и комментарии"
+                type="rss"
+                xmlUrl="http://vedomosti.dynamic.feedsportal.com/pf/587088/www.vedomosti.ru/newspaper/out/pages/analytics.xml" htmlUrl="http://www.vedomosti.ru/opinion/"/>
+            <outline
+                text="&quot;Ведомости&quot;. Маркетинг и конкуренция"
+                title="&quot;Ведомости&quot;. Маркетинг и конкуренция"
+                type="rss"
+                xmlUrl="http://vedomosti.dynamic.feedsportal.com/pf/587091/www.vedomosti.ru/newspaper/out/pages/marketing.xml" htmlUrl="http://www.vedomosti.ru/"/>
+            <outline text="&quot;Коммерсантъ&quot;. Бизнес"
+                title="&quot;Коммерсантъ&quot;. Бизнес" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/RU/section-business.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline text="Lenta.ru: Экономика:"
+                title="Lenta.ru: Экономика:" type="rss"
+                xmlUrl="http://lenta.ru/rss/news/economy/" htmlUrl="http://lenta.ru/"/>
+            <outline text="НЭП 08 // Первая полоса"
+                title="НЭП 08 // Первая полоса" type="rss"
+                xmlUrl="http://www.nep08.ru/rss/" htmlUrl="http://www.nep08.ru/"/>
+            <outline text="Публикации по тегу: Бизнес и власть"
+                title="Публикации по тегу: Бизнес и власть" type="rss"
+                xmlUrl="http://expert.ru/doc-list/rss/tag/21772/" htmlUrl="http://expert.ru/doc-list/rss/tag/21772/"/>
+            <outline text="Публикации по тегу: Новости бизнеса"
+                title="Публикации по тегу: Новости бизнеса" type="rss"
+                xmlUrl="http://expert.ru/doc-list/rss/tag/34387/" htmlUrl="http://expert.ru/doc-list/rss/tag/34387/"/>
+            <outline text="РБК. Экономика" title="РБК. Экономика"
+                type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/economics.rss" htmlUrl="http://top.rbc.ru/policy/"/>
+            <outline text="УРБК" title="УРБК" type="rss"
+                xmlUrl="http://urbc.ru/daynews/rss.xml" htmlUrl="http://urbc.ru/"/>
+        </outline>
+        <outline title="Администрация Екатеринбурга" text="Администрация Екатеринбурга">
+            <outline text="Официальный портал Екатеринбурга"
+                title="Официальный портал Екатеринбурга" type="rss"
+                xmlUrl="http://www.ekburg.ru/news/rss/" htmlUrl="http://www.ekburg.ru"/>
+        </outline>
+        <outline title="Политика" text="Политика">
+            <outline text="&quot;Коммерсантъ&quot;. Политика"
+                title="&quot;Коммерсантъ&quot;. Политика" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/RU/section-politics.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline text="РБК. Политика" title="РБК. Политика"
+                type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/politics.rss" htmlUrl="http://top.rbc.ru/daythemes/"/>
+        </outline>
+        <outline title="Безумный мир" text="Безумный мир">
+            <outline text="Style.rbc.ru :: Новости"
+                title="Style.rbc.ru :: Новости" type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/style.rbc.ru/popural.rss" htmlUrl="http://style.rbc.ru/"/>
+            <outline text="РБК. Этот безумный мир"
+                title="РБК. Этот безумный мир" type="rss"
+                xmlUrl="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/funs.rss" htmlUrl="http://top.rbc.ru/funs/"/>
+            <outline
+                text="Российское Информационное Агентство &quot;РИА Новости&quot;"
+                title="Российское Информационное Агентство &quot;РИА Новости&quot;"
+                type="rss"
+                xmlUrl="http://rian.ru/export/rss2/kaleidoscope/index.xml" htmlUrl="http://www.ria.ru"/>
+        </outline>
+        <outline title="Финансы" text="Финансы">
+            <outline text="&quot;Ведомости&quot;. Финансы"
+                title="&quot;Ведомости&quot;. Финансы" type="rss"
+                xmlUrl="http://vedomosti.dynamic.feedsportal.com/pf/587090/www.vedomosti.ru/newspaper/out/pages/finance.xml" htmlUrl="http://www.vedomosti.ru/finance/"/>
+            <outline text="Banki.ru: лента новостей"
+                title="Banki.ru: лента новостей" type="rss"
+                xmlUrl="http://www.banki.ru/xml/news.rss" htmlUrl="http://www.banki.ru"/>
+            <outline text="Banki.ru: темы дня"
+                title="Banki.ru: темы дня" type="rss"
+                xmlUrl="http://www.banki.ru/xml/daytheme.rss" htmlUrl="http://www.banki.ru"/>
+            <outline text="BFM.ru: «Проект BFM.ru», «Финансы»"
+                title="BFM.ru: «Проект BFM.ru», «Финансы»" type="rss"
+                xmlUrl="http://www.bfm.ru/news/rss/finances/" htmlUrl="http://www.bfm.ru/news/list/finances+bfm/"/>
+            <outline text="ИА &quot;Финмаркет&quot;: новости"
+                title="ИА &quot;Финмаркет&quot;: новости" type="rss"
+                xmlUrl="http://rss.feedsportal.com/c/32187/f/423933/index.rss" htmlUrl="http://www.finmarket.ru"/>
+            <outline text="Новости сайта &quot;Финанс&quot;"
+                title="Новости сайта &quot;Финанс&quot;" type="rss"
+                xmlUrl="http://finansmag.ru/rss/finansmag.xml" htmlUrl="http://www.finansmag.ru/"/>
+            <outline text="Публикации по тегу: Банковская система"
+                title="Публикации по тегу: Банковская система"
+                type="rss"
+                xmlUrl="http://expert.ru/doc-list/rss/tag/21767/" htmlUrl="http://expert.ru/doc-list/rss/tag/21767/"/>
+        </outline>
+        <outline title="Главные региональные источники" text="Главные региональные источники">
+            <outline text="e2e4.tv: Новости" title="e2e4.tv: Новости"
+                type="rss" xmlUrl="http://e2e4.tv/rss_xml/f/news/" htmlUrl="http://e2e4.tv/"/>
+            <outline text="АПИ-Урал" title="АПИ-Урал" type="rss"
+                xmlUrl="http://www.apiural.ru/rss/" htmlUrl="http://www.apiural.ru/"/>
+            <outline text="ЕАН" title="ЕАН" type="rss"
+                xmlUrl="http://eanews.ru/rss/" htmlUrl="http://eanews.ru/"/>
+            <outline text="Коммерсантъ-Урал. Екатеринбург"
+                title="Коммерсантъ-Урал. Екатеринбург" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/REGIONS/ekaterinburg.xml" htmlUrl="http://www.kommersant.ru/region/ekaterinburg/"/>
+            <outline text="Накануне.RU" title="Накануне.RU" type="rss"
+                xmlUrl="http://www.nakanune.ru/rss.php" htmlUrl="http://www.nakanune.ru"/>
+            <outline text="Новости Иннокентия Шеремета"
+                title="Новости Иннокентия Шеремета" type="rss"
+                xmlUrl="http://shownewstv.ru/rss/" htmlUrl="http://shownewstv.ru/"/>
+            <outline text="Новый регион" title="Новый регион" type="rss"
+                xmlUrl="http://region.urfo.org/ekb/rss/" htmlUrl="http://www.nr2.ru/ekb/"/>
+            <outline text="Последний выпуск журнала Эксперт Урал"
+                title="Последний выпуск журнала Эксперт Урал" type="rss"
+                xmlUrl="http://expert.ru/ural/rss/" htmlUrl="http://expert.ru/ural/rss/"/>
+            <outline text="Ура.Ru - Российское информационное агентство"
+                title="Ура.Ru - Российское информационное агентство"
+                type="rss"
+                xmlUrl="http://www.ura.ru/export/articles.rss" htmlUrl="http://www.ura.ru"/>
+            <outline text="Ура.Ru - Российское информационное агентство"
+                title="Ура.Ru - Российское информационное агентство"
+                type="rss" xmlUrl="http://www.ura.ru/export/news.rss" htmlUrl="http://www.ura.ru"/>
+            <outline text="УралПолит.Ru" title="УралПолит.Ru" type="rss"
+                xmlUrl="http://uralpolit.ru/export/ny_news_urfo.xml" htmlUrl="http://www.uralpolit.ru"/>
+            <outline text="УРБК" title="УРБК" type="rss"
+                xmlUrl="http://urbc.ru/daynews/rss.xml" htmlUrl="http://urbc.ru/"/>
+        </outline>
+        <outline title="Фото и видео" text="Фото и видео">
+            <outline text="&quot;Коммерсантъ ВИДЕО&quot;"
+                title="&quot;Коммерсантъ ВИДЕО&quot;" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/RU/section-video.xml" htmlUrl="http://www.kommersant.ru/"/>
+            <outline text="Алексей Сохович-Канаровский"
+                title="Алексей Сохович-Канаровский" type="rss"
+                xmlUrl="http://sokhovich.livejournal.com/data/rss" htmlUrl="http://sokhovich.livejournal.com/"/>
+            <outline text="Дмитрий Горчаков" title="Дмитрий Горчаков"
+                type="rss"
+                xmlUrl="http://nucl0id.livejournal.com/data/rss" htmlUrl="http://nucl0id.livejournal.com/"/>
+            <outline text="Журнал DoctorADS" title="Журнал DoctorADS"
+                type="rss"
+                xmlUrl="http://doctorads.livejournal.com/data/rss" htmlUrl="http://doctorads.livejournal.com/"/>
+            <outline text="НОВОСТИ В ФОТОГРАФИЯХ"
+                title="НОВОСТИ В ФОТОГРАФИЯХ" type="rss"
+                xmlUrl="http://feeds.feedburner.com/bigpictures" htmlUrl="http://bigpicture.ru/"/>
+            <outline
+                text="Российское Информационное Агентство &quot;РИА Новости&quot;"
+                title="Российское Информационное Агентство &quot;РИА Новости&quot;"
+                type="rss"
+                xmlUrl="http://rian.ru/export/rss2/video/index.xml" htmlUrl="http://www.ria.ru"/>
+            <outline
+                text="Российское Информационное Агентство &quot;РИА Новости&quot;"
+                title="Российское Информационное Агентство &quot;РИА Новости&quot;"
+                type="rss"
+                xmlUrl="http://rian.ru/export/rss2/photolents/index.xml" htmlUrl="http://www.ria.ru"/>
+            <outline text="Свободная пресса" title="Свободная пресса"
+                type="rss" xmlUrl="http://svpressa.ru/xml/news.xml" htmlUrl="http://svpressa.ru/"/>
+            <outline text="Стоп-Кадр" title="Стоп-Кадр" type="rss"
+                xmlUrl="http://stopcadr1.livejournal.com/data/rss" htmlUrl="http://stopcadr1.livejournal.com/"/>
+        </outline>
+        <outline title="Технологии" text="Технологии">
+            <outline text="&quot;Ведомости&quot;. ИТ и Телекоммуникации"
+                title="&quot;Ведомости&quot;. ИТ и Телекоммуникации"
+                type="rss"
+                xmlUrl="http://vedomosti.dynamic.feedsportal.com/pf/587095/www.vedomosti.ru/newspaper/out/pages/it.xml" htmlUrl="http://www.vedomosti.ru/tech/"/>
+            <outline text="&quot;РИА Новости&quot; / Наука и технология"
+                title="&quot;РИА Новости&quot; / Наука и технология"
+                type="rss"
+                xmlUrl="http://www.rian.ru/export/rss2/science/index.xml" htmlUrl="http://www.ria.ru"/>
+            <outline text="3DNews" title="3DNews" type="rss"
+                xmlUrl="http://3dnews.ru/news/rss/" htmlUrl="http://www.3dnews.ru/"/>
+            <outline text="CNews" title="CNews" type="rss"
+                xmlUrl="http://rss.feedsportal.com/c/803/f/413233/index.rss" htmlUrl="http://www.cnews.ru/"/>
+            <outline text="Membrana.ru" title="Membrana.ru" type="rss"
+                xmlUrl="http://www.membrana.ru/export/rss.xml" htmlUrl="http://www.membrana.ru"/>
+            <outline
+                text="ZOOM - все о цифровой технике и современных технологиях"
+                title="ZOOM - все о цифровой технике и современных технологиях"
+                type="rss"
+                xmlUrl="http://rss.feedsportal.com/c/803/f/413255/index.rss" htmlUrl="http://zoom.cnews.ru/"/>
+            <outline text="Вебпланета news" title="Вебпланета news"
+                type="rss" xmlUrl="http://webplanet.ru/news/feed" htmlUrl="http://webplanet.ru/news"/>
+            <outline text="Информационные технологии в Екатеринбурге"
+                title="Информационные технологии в Екатеринбурге"
+                type="rss" xmlUrl="http://it-eburg.com/rss/rss.xml" htmlUrl="http://it-eburg.com/"/>
+            <outline text="Публикации по тегу: Интернет"
+                title="Публикации по тегу: Интернет" type="rss"
+                xmlUrl="http://expert.ru/doc-list/rss/tag/22130/" htmlUrl="http://expert.ru/doc-list/rss/tag/22130/"/>
+        </outline>
+        <outline title="Экология" text="Экология">
+            <outline text="&quot;РИА Новости&quot; / Экология"
+                title="&quot;РИА Новости&quot; / Экология" type="rss"
+                xmlUrl="http://eco.rian.ru/export/rss2/eco/index.xml" htmlUrl="http://www.ria.ru"/>
+        </outline>
+        <outline title="Блоги" text="Блоги">
+            <outline text="&quot;Коммерсантъ&quot;. Блоги"
+                title="&quot;Коммерсантъ&quot;. Блоги" type="rss"
+                xmlUrl="http://feeds.kommersant.ru/RSS_Export/BLOGS/all.xml" htmlUrl="http://www.kommersant.ru/blogs/"/>
+            <outline text="dubichev" title="dubichev" type="rss"
+                xmlUrl="http://dubichev.livejournal.com/data/rss" htmlUrl="http://dubichev.livejournal.com/"/>
+            <outline text="Алексей Сохович-Канаровский"
+                title="Алексей Сохович-Канаровский" type="rss"
+                xmlUrl="http://sokhovich.livejournal.com/data/rss" htmlUrl="http://sokhovich.livejournal.com/"/>
+            <outline text="Андрей Альшевских" title="Андрей Альшевских"
+                type="rss"
+                xmlUrl="http://alshevskix.livejournal.com/data/rss" htmlUrl="http://alshevskix.livejournal.com/"/>
+            <outline text="Блог Дмитрия Полянина"
+                title="Блог Дмитрия Полянина" type="rss"
+                xmlUrl="http://d-polanin.livejournal.com/data/rss" htmlUrl="http://d-polanin.livejournal.com/"/>
+            <outline text="Блог Ура.Ru" title="Блог Ура.Ru" type="rss"
+                xmlUrl="http://www.ura.ru/export/blog.rss" htmlUrl="http://www.ura.ru/blog"/>
+            <outline text="Дмитрий Горчаков" title="Дмитрий Горчаков"
+                type="rss"
+                xmlUrl="http://nucl0id.livejournal.com/data/rss" htmlUrl="http://nucl0id.livejournal.com/"/>
+            <outline text="Евгений Липович" title="Евгений Липович"
+                type="rss"
+                xmlUrl="http://lipovich.livejournal.com/data/rss" htmlUrl="http://lipovich.livejournal.com/"/>
+            <outline text="Лев Кощеев" title="Лев Кощеев" type="rss"
+                xmlUrl="http://topaz00.livejournal.com/data/rss" htmlUrl="http://topaz00.livejournal.com/"/>
+            <outline text="Леонид Волков" title="Леонид Волков"
+                type="rss"
+                xmlUrl="http://leonwolf.livejournal.com/data/rss" htmlUrl="http://leonwolf.livejournal.com/"/>
+            <outline text="Михаил Прохоров" title="Михаил Прохоров"
+                type="rss"
+                xmlUrl="http://md-prokhorov.livejournal.com/data/rss" htmlUrl="http://md-prokhorov.livejournal.com/"/>
+            <outline text="Навальный" title="Навальный" type="rss"
+                xmlUrl="http://navalny.livejournal.com/data/rss" htmlUrl="http://navalny.livejournal.com/"/>
+            <outline text="Ройзман" title="Ройзман" type="rss"
+                xmlUrl="http://roizman.livejournal.com/data/rss" htmlUrl="http://roizman.livejournal.com/"/>
+        </outline>
+        <outline title="Инфографика" text="Инфографика">
+            <outline text="Slon.ru - инфографика"
+                title="Slon.ru - инфографика" type="rss"
+                xmlUrl="http://slon.ru/rss/article_types.php?id=16" htmlUrl="http://slon.ru/rss/article_types.php?id=16"/>
+            <outline
+                text="Российское Информационное Агентство &quot;РИА Новости&quot;"
+                title="Российское Информационное Агентство &quot;РИА Новости&quot;"
+                type="rss"
+                xmlUrl="http://rian.ru/export/rss2/infografika/index.xml" htmlUrl="http://www.ria.ru"/>
+        </outline>
+    </body>
+</opml>

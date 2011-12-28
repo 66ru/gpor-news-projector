@@ -26,6 +26,22 @@ class NewsStatFeedParser
 			$this->_lastError = 'Can\'t find feedsFile '.$this->_feedsFile;
 			throw new ErrorException('Can\'t find feedsFile '.$this->_feedsFile);
 		}
+		if (!file_exists($this->_processDir))
+		{
+			if (!mkdir($this->_processDir, 0777))
+			{
+				$this->_lastError = 'Can\'t create folder '.$this->_processDir;
+				throw new ErrorException('Can\'t create folder '.$this->_processDir);
+			}
+		}
+		if (!file_exists($this->_resultDir))
+		{
+			if (!mkdir($this->_resultDir, 0777))
+			{
+				$this->_lastError = 'Can\'t create folder '.$this->_resultDir;
+				throw new ErrorException('Can\'t create folder '.$this->_resultDir);
+			}
+		}
 	}
 	
 	public function getResultDir()
