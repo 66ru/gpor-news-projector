@@ -27,6 +27,8 @@
 			'lowCountClass' : 'lowCount',
 			'newestItemClass' : 'newestItemClass',
 			'oddClass' : 'odd',
+			'perfectClass' : 'perfect',
+			'perfectDarkClass' : 'perfectOdd',
 			'animationSpeed' : 250,
 			'feedContainer' : 'feed',
 			'header' : 'head',
@@ -154,6 +156,9 @@
 		    	
 		    	todayCount = data[todayIndex];
 		    	yesterdayCount = data[yesterdayIndex];
+		    	yesterdayCount = Math.abs(yesterdayCount);
+		    	todayCount = Math.abs(todayCount);
+
 		    	
 		    	todayCountContainer = $(obj).find("."+o.todayCountClass);
 		    	yesterdayCountContainer = $(obj).find("."+o.yesterdayCountClass);
@@ -241,10 +246,19 @@
 		    			{
 		    				todayCount = type == 'views' ? data[i]['views'] : data[i]['comments'];
 		    				allCount = type == 'views' ? data[i]['totalViews'] : data[i]['totalComments'];
+		    				todayCount = Math.abs(todayCount);
+		    				allCount = Math.abs(allCount);
 		    				li = $('<div>');
 		    				li.addClass('newItem');
 		    				li.addClass(o.topItemClass);
-		    				if (odd)
+		    				if (allCount > todayCount)
+		    				{
+			    				if (odd)
+				    				li.addClass(o.perfectDarkClass);
+			    				else
+			    					li.addClass(o.perfectClass);
+		    				}
+		    				else if (odd)
 			    				li.addClass(o.oddClass);
 		    						
 		    				li.css('height', '1px');
@@ -266,10 +280,19 @@
 		    			{
 		    				todayCount = type == 'views' ? data[i]['views'] : data[i]['comments'];
 		    				allCount = type == 'views' ? data[i]['totalViews'] : data[i]['totalComments'];
+		    				todayCount = Math.abs(todayCount);
+		    				allCount = Math.abs(allCount);
 		    				li = $('<div>');
 		    				li.addClass('newItem');
 		    				li.addClass(o.topItemClass);
-		    				if (odd)
+		    				if (allCount > todayCount)
+		    				{
+			    				if (odd)
+				    				li.addClass(o.perfectDarkClass);
+			    				else
+			    					li.addClass(o.perfectClass);
+		    				}
+		    				else if (odd)
 			    				li.addClass(o.oddClass);
 
 		    				li.css('height', '1px');

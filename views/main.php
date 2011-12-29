@@ -66,6 +66,8 @@
 	ol, ul {list-style: none outside none; margin: 0; padding: 0;}
 	h1, h2 {padding: 0; margin: 0;}
 	.odd {background-color: #F2F6E8;}
+	.perfect {background-color: #EFE7DE;}
+	.perfectOdd {background-color: #F2D6BA;}
 </style>
 
 <script type="text/javascript">
