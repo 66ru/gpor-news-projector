@@ -2,8 +2,6 @@
 $newsStatRootDir = dirname(__FILE__);
 $config = require($newsStatRootDir.'/config.php');
 
-$DR = $config['rootDir'];
-
 include_once ($newsStatRootDir.'/lib/xmlrpc-3.0.0.beta/xmlrpc.inc');
 include_once ($newsStatRootDir.'/lib/xmlrpc-3.0.0.beta/xmlrpcs.inc');
 include_once ($newsStatRootDir.'/lib/xmlrpc-3.0.0.beta/xmlrpc_wrappers.inc');
