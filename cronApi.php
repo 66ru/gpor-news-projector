@@ -177,19 +177,17 @@ function newsStatGetPeriodStat ($fileName, $method, $filters, $config)
 	$days = $config['days'];
 	$stat = newsStatGetStatFromFile ($fileName);
 	$tmp = array();
+	$resultAr = array();
 	if ($stat)
 	{
 		foreach ($stat as $date=>$total)
-		{
 			$tmp[$date] = $total;
-			if (count($tmp) >= $config['days'])
-				break;
-		}
 	}
 
 	for ($i = 0; $i < $days; $i++)
 	{
 		$date = date('Y-m-d', (time() - 60*60*24*$i));
+		$resultAr[$date] = 0;
 		if ($i == 0 || !isset($tmp[$date]))
 		{
 			$newsStatXmlRpc = new NewsStatXmlRpc($config['apiUrl'], $config['apiKey'], $method);
@@ -202,11 +200,17 @@ function newsStatGetPeriodStat ($fileName, $method, $filters, $config)
 				));
 			$total = 0;
 			if ($result && isset($result['total']))
-				$tmp[$date] = $result['total'];
+				$resultAr[$date] = $result['total'];
 		}
+		else
+		{
+			$resultAr[$date] = $tmp[$date];
+		}
+		if (count($resultAr) >= $config['days'])
+			break;
 	}
 	echo "end\n";
-	return $tmp;
+	return $resultAr;
 	
 }
 

@@ -87,7 +87,7 @@ class NewsStatXmlRpc
 		
 		if(!$xmlrpcresp->faultCode()){
 			$val = $xmlrpcresp->val;
-			if (isset($val['error']) && !$val['error'])
+			if (isset($val['error']) && $val['error'])
 			{
 				$this->_lastError = "An error occurred: "." Reason: ".htmlspecialchars($val['error']);
 				return false;
